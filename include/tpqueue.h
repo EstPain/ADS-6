@@ -8,7 +8,7 @@ class TPQueue {
  private:
   T Arr[10];
   int n, k;
-  
+
  public:
   TPQueue(): n(0), k(0) {}
   int Dimension() {
